@@ -7,7 +7,7 @@
 - 🔭 Currently working on: fullstack web apps, RESTful APIs, and scalable backend systems.
 - 🌱 Learning: Microservices architecture, DevOps tools, and advanced frontend patterns.
 - 💬 Ask me about: JavaScript, Vue, React, Node.js, REST APIs, Sequelize, Laravel, Vite.
-- 📫 Reach me at: **rizkyyuliandreanto@gmail.com**
+- 📫 Reach me at: **rizkand995@gmail.com**
 - ⚡ Fun fact: I build cool things from scratch and enjoy optimizing everything I touch.
 
 ---
@@ -59,11 +59,9 @@
 
 ## 🔗 Let's Connect
 
-- 📬 **Email**: rizkyyuliandreanto@gmail.com  
-- 🌐 **Website**: [rizkyyuli.dev](https://rizkyyuli.dev) *(optional)*
-- 💼 **LinkedIn**: [linkedin.com/in/rizkyyuli](https://linkedin.com/in/rizkyyuli) *(optional)*
-- 🐦 **Twitter/X**: [@rizkyyuli_](https://twitter.com/rizkyyuli_) *(optional)*
-- 📷 **Instagram**: [@rizkyyuli_](https://instagram.com/rizkyyuli_) *(optional)*
+- 📬 **Email**: rizkyand995@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/rizkyyuli](https://linkedin.com/in/rizkyyuliandreanto) 
+- 📷 **Instagram**: [@Eyry07](https://instagram.com/eryry07) 
 
 ---
 
