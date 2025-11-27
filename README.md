@@ -38,18 +38,18 @@ const rizkyAndreanto = {
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://img. shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img. shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img. shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields. io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img. shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
@@ -111,10 +111,7 @@ const rizkyAndreanto = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RizkyYuliAndreanto&theme=github_dark&utcOffset=7" alt="Productive Time" width="350"/>
 </p>
 
-### 🔥 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RizkyYuliAndreanto&theme=github-dark-blue&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="500"/>
-</p>
+
 
 ### 💻 Most Used Languages
 <p align="center">
@@ -122,10 +119,7 @@ const rizkyAndreanto = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RizkyYuliAndreanto&theme=github_dark" alt="Most Commit Language" width="350"/>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RizkyYuliAndreanto&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</p>
+
 
 ### 📈 Contribution Graph
 <p align="center">
