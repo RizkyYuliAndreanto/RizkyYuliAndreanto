@@ -103,7 +103,7 @@
 ## 🎯 Current Focus & Projects
 
 ### Give me your idea and i will make it happen
----
+
 
 ## 📫 Let's Connect & Collaborate
 
@@ -122,7 +122,7 @@
   </a>
 </p>
 
----
+
 
 <div align="center">
 
