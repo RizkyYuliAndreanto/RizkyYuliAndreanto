@@ -98,14 +98,7 @@
 
 
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyYuliAndreanto&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
 
-</div>
-
----
 
 ## 🎯 Current Focus & Projects
 
