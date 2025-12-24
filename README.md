@@ -11,29 +11,6 @@
   <a href="#"><img alt="Available for hire" src="https://img.shields.io/badge/Available%20for%20Hire-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" /></a>
 </p>
 
----
-
-## 🚀 About Me
-
-```javascript
-const rizkyAndreanto = {
-    currentFocus: "Building scalable full-stack applications",
-    architecture: ["Microservices", "RESTful APIs", "Clean Architecture"],
-    currentlyLearning: ["DevOps", "Cloud Computing", "Advanced React Patterns"],
-    askMeAbout: ["JavaScript", "Vue.js", "Node.js", "Laravel", "System Design"],
-    technologies: {
-        backend: ["Node.js", "Express", "Laravel", "Sequelize"],
-        frontend: ["Vue.js", "React", "Nuxt.js", "Next.js"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Docker", "Git", "Vite", "Webpack"]
-    },
-    architecture: "Scalable & Maintainable Code",
-    funFact: "I build things from scratch and optimize everything I touch ⚡"
-};
-```
-
----
-
 ## 🛠️ Technology Stack
 
 ### 💻 Programming Languages
@@ -132,64 +109,7 @@ const rizkyAndreanto = {
 
 ## 🎯 Current Focus & Projects
 
-### 🔭 What I'm Working On
-- Building scalable microservices architecture
-- Developing RESTful APIs with advanced authentication
-- Creating responsive web applications with modern frameworks
-- Optimizing database performance and query efficiency
-
-### 🌱 What I'm Learning
-- **DevOps & Cloud**: Docker containerization, AWS/GCP services
-- **Advanced Frontend**: React Server Components, Vue 3 Composition API
-- **Backend Architecture**: Clean Architecture, Domain-Driven Design
-- **Performance**: Database optimization, caching strategies
-
-### 💡 Ask Me About
-- JavaScript/TypeScript ecosystem
-- Vue.js & React development
-- Node.js backend development
-- Laravel PHP framework
-- Database design & optimization
-- RESTful API architecture
-- Code organization & clean architecture
-
----
-
-## 🚀 Featured Projects
-
-### 📁 Backend Projects
-- **Scalable REST API** - Node.js, Express, Sequelize, JWT Authentication
-- **Laravel E-commerce Backend** - PHP, Laravel, MySQL, Payment Integration
-- **Microservices Architecture** - Docker, Node.js, MongoDB, Redis
-
-### 🎨 Frontend Projects
-- **Vue.js Dashboard** - Vue 3, Composition API, TailwindCSS, Charts. js
-- **React SPA** - React, Redux, TypeScript, Material-UI
-- **Nuxt.js SSR App** - Nuxt 3, Server-side rendering, PWA
-
-### 🔗 Full-Stack Applications
-- **E-learning Platform** - Vue. js + Laravel + MySQL
-- **Task Management System** - React + Node. js + PostgreSQL
-- **Real-time Chat App** - Vue.js + Socket.io + Express
-
----
-
-## 💼 Professional Services
-
-### 🛠️ What I Offer
-- **Full-Stack Web Development** - Complete web applications from concept to deployment
-- **Backend API Development** - Scalable REST APIs with proper authentication & authorization
-- **Database Design & Optimization** - Efficient database schemas and query optimization
-- **Code Review & Consultation** - Architecture review, performance optimization
-- **Legacy System Migration** - Modernizing existing applications with new technologies
-
-### 🎯 Ideal Collaboration
-- Startup MVPs requiring rapid development
-- Enterprise applications needing scalable architecture
-- API development for mobile applications
-- Performance optimization of existing systems
-- Code mentoring and technical consultation
-
+### Give me your idea and i will make it happen
 ---
 
 ## 📫 Let's Connect & Collaborate
@@ -215,7 +135,7 @@ const rizkyAndreanto = {
 
 ### 💭 Philosophy
 
-> *"Clean code is not written by following a set of rules.  You don't become a software craftsman by learning a list of heuristics.  Professionalism and craftsmanship come from values that drive disciplines."*
+> *"Money is not everything, but with money your dreams will come true."*
 
 **Building the future, one line of code at a time** ⚡
 
